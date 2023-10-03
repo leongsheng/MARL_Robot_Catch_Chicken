@@ -1,2 +1,2 @@
-# MARL_Robot_Catch_Chicken
+# MARL Robot Catch Chicken
 A simple practice for MARL (Multi Agent Reinforcement Learning)
